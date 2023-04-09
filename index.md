@@ -2,7 +2,7 @@
 ## Heading 2 Bold **index.md**
 [Link](https://jingtingl.github.io/cse15l-lab-reports/index.html)
 This is a demo on Github pages.
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fabout&psig=AOvVaw0tYF995L43_ctXvvq9KGND&ust=1681160854737000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIC73bDanf4CFQAAAAAdAAAAABAD)
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fabout&psig=AOvVaw0tYF995L43_ctXvvq9KGND&ust=1681160854737000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIC73bDanf4CFQAAAAAdAAAAABAD](https://github.githubassets.com/images/modules/site/about/octocats.webp)
 > This is how you write a blockquote
 
 Horizontal rule
