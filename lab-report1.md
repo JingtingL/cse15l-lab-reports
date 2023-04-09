@@ -36,6 +36,9 @@ Do the same steps as way 1, but use cs15lsp23co@ieng6-202.ucsd.edu as username a
 <img width="571" alt="image" src="https://user-images.githubusercontent.com/89711106/230798346-50e7ea98-2042-454d-a368-9ac85a13cfc1.png">
 
 ## Part 3 Trying Some Commands
+Here are some basic linux commands: https://www.guru99.com/linux-commands-cheat-sheet.html
+This link has explanation on some basic linux commands.
+
 Type ls will give you the files,directories,etc under the working directory.
 <img width="296" alt="image" src="https://user-images.githubusercontent.com/89711106/230798518-6b069fa4-8d22-4108-95dd-e53c4bfd139e.png">
 
