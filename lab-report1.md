@@ -3,7 +3,7 @@ This page will be instructions on how get the computer set up for remote acess a
 ---
 
 ## Parts 1 Download Virtual Studio Code
-1. Go to [Link](https://code.visualstudio.com/)
+1. Go to https://code.visualstudio.com/ [Link](https://code.visualstudio.com/)
 2. 
 
 ## Part 2 Remotely Accessing the Lab Computer
