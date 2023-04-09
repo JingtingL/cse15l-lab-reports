@@ -1,5 +1,7 @@
 # Lab Report 1 - Remote Access and FileSystem (Week 1)
+
 This page will be instructions on how get the computer set up for remote acess and file system
+
 ---
 
 ## Parts 1 Download Virtual Studio Code
