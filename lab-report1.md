@@ -19,7 +19,7 @@ Congratulation! You have successfully downloaded Virtual Studio Code!
 ## Part 2 Remotely Accessing the Lab Computer
 There is two way to access the lab computer. 
 - Way 1 **The Usual Way**
-1. Go to https://sdacs.ucsd.edu/~icc/index.php to see your username for the class
+1. Go to [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) to see your username for the class
 2. Then change your password on that username for the class
 3. Open terminal through terminal or through vscode by scroll down terminal and click new terminal.
 4. In terminal type in: ssh cs15lsp23co@ieng6.ucsd.edu
