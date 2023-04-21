@@ -5,7 +5,7 @@ This page will be instructions on how to get the computer set up for remote aces
 ---
 
 ## Parts 1 Download Virtual Studio Code
-1. Go to [https://code.visualstudio.com/]([http://a.com](https://code.visualstudio.com/))
+1. Go to [https://code.visualstudio.com/](https://code.visualstudio.com/)
 <img width="740" alt="image" src="https://user-images.githubusercontent.com/89711106/230797513-35415e19-10e3-47a0-a0d9-df15dbde1d05.png">
 
 2. Click Download Mac Universal, if you have Macbook. Choose download option according to your computer system.
