@@ -40,14 +40,19 @@ Here are some basic linux commands: https://www.guru99.com/linux-commands-cheat-
 This link has explanation on some basic linux commands.
 
 Type ls will give you the files,directories,etc under the working directory. ls means list out the files and directory. Below I have shown that if the command works, then it will list out the files and directories. If it doesn't give you an output, then the current directory that you are in, probably have no folder or directory within it. 
+
 <img width="296" alt="image" src="https://user-images.githubusercontent.com/89711106/230798518-6b069fa4-8d22-4108-95dd-e53c4bfd139e.png">
 
 Type pwd will give you the working directory. pwd means print working directory, so it will prints out the current working directing that you are in. There is almost no way that this command will not work. 
+
 <img width="342" alt="image" src="https://user-images.githubusercontent.com/89711106/230798542-7d1b52af-42e5-4543-afe3-5a23c145442a.png">
 
 Type cd <directory> will navigate you to that directory. cd means change directory. So if you just type cd, it will navigate you to the hoe directory. If you type cd.., it will navigate you to the directory right before you current directory. 
+  
 <img width="311" alt="image" src="https://user-images.githubusercontent.com/89711106/230798600-05f16738-688e-47af-b938-efcba18907f9.png">
   
+  
+
 Another command in that you can try in the terminal is mkdr, which means make directory. This will make directory within the current directory that you are in. If you want to remove something, you can type -rm, which stands for remove.
 
 **If you've made it here, congrats you have the learn how to get the computer set up for remote acess and file system!** 
