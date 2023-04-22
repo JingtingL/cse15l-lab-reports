@@ -59,7 +59,7 @@ class StringServer {
 
 **This is two examples of using the /add-message**
 
-**1. **
+**1.**
 First, I typed in "http://localhost:4000/add-message?s=My name is" and this is what I got
 
 Result from the URL
