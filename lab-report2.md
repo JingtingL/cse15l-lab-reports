@@ -7,6 +7,7 @@ There are **three parts** to this lab
 It should keep track of a single string that gets added to by incoming requests.
 
 The code for StringServer:
+
 The StringServer just tell the computer how we want to organize the URL given to it to output the expected result.
 
 ```
