@@ -69,6 +69,8 @@ Result from the URL
 Here the method called is called handleRequest method from the Handler class, main method from the string server class, handle method from the ServerHttpHandler class, start from the Server class. The relevant argument to the server method is that we take the first argument from the commandline and turn call that our port for the server. Then, we pass in how we want to handle the URL using the handler class. 
 
 There is one field in the Handler class that updates everytime we call [add-message](http://localhost:4000/add-message?s=), which is the string variable/field. Everytime we call add-message, the string will take the "My name is" after the equal sign and adds onto the variable string. Finally, the webpage will output the string field, showing the result above.
+
+
 2. 
 Then, I typed in "http://localhost:4000/add-message?s=Jingting" and this is what I got
 
