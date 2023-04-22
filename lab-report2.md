@@ -60,7 +60,7 @@ class StringServer {
 **This is two examples of using the /add-message**
 
 **1.**
-First, I typed in "http://localhost:4000/add-message?s=My name is" and this is what I got
+First, I typed in [http://localhost:4000/add-message?s=My name is]("http://localhost:4000/add-message?s=My name is") and this is what I got
 
 Result from the URL
 
@@ -72,7 +72,7 @@ There is one field in the Handler class that updates everytime we call [add-mess
 
 
 **2.**
-Then, I typed in "http://localhost:4000/add-message?s=Jingting" and this is what I got
+Then, I typed in [http://localhost:4000/add-message?s=Jingting]("http://localhost:4000/add-message?s=Jingting") and this is what I got
 
 <img width="573" alt="image" src="https://user-images.githubusercontent.com/89711106/233763858-0d2e0488-130a-47f5-8bc0-828030055b09.png">
 
