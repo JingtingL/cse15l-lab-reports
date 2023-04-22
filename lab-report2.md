@@ -63,6 +63,7 @@ class StringServer {
 First, I typed in "http://localhost:4000/add-message?s=My name is" and this is what I got
 
 Result from the URL
+
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/89711106/233763775-c4f67813-7e7a-4554-ab18-1f9819a15e18.png">
 
 Here the method called is called handleRequest method from the Handler class, main method from the string server class, handle method from the ServerHttpHandler class, start from the Server class. The relevant argument to the server method is that we take the first argument from the commandline and turn call that our port for the server. Then, we pass in how we want to handle the URL using the handler class. 
@@ -117,6 +118,7 @@ This is a test that showed no error in the buggy program. This test had no error
 ```
 
 This is the error that I got.
+
 <img width="623" alt="image" src="https://user-images.githubusercontent.com/89711106/233765343-e3f56edf-6679-4398-99ef-be05af6ca00d.png">
 
 **The bug is the element at the last index can no longer refer back to the original value in the element in index 0.**
