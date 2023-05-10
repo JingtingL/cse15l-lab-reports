@@ -9,12 +9,6 @@ It should keep track of a single string that gets added to by incoming requests.
 
 In order for StringServer to run, we need be able to create the server. 
 So I used the Server class from last week's lab to create the StringServer.
-**This is the code for Server Creation**
-
-<img width="656" alt="image" src="https://user-images.githubusercontent.com/89711106/233763396-cc0d19cf-9297-4771-a79a-fda88653aff8.png">
-
-
-
 
 ### The StringServer just tell the computer how we want to organize the URL given to it to output the expected result.
 
@@ -126,7 +120,8 @@ This is the error that I got.
 **The bug is the element at the last index can no longer refer back to the original value in the element in index 0.**
 So to fix this issue, I simply created a temp variable to store the value in the element at index 0 before the loop runs. Then, inside the loop, I tell the computer that if the loop is iterating through the element at the last index, then assgin it the variable temp, which store the original value in the element at index 0. 
 
-This is the reverseInPlace method after I fix the bug
+This is the reverseInPlace method before I realize this code cause an error, because when the elements in the list gets too large, the elements in the bottom can no longer refer back to the original element stored in the first half of the array. 
+
 ```
   // Changes the input array to be in reversed order
   static void reverseInPlace(int[] arr) {
@@ -143,6 +138,29 @@ This is the reverseInPlace method after I fix the bug
     }
   }
 ```
+
+** So handling 0 is not enough.
+
+This is my eventual code to fix the issue. 
+
+```
+  // Changes the input array to be in reversed order
+  static void reverseInPlace(int[] arr) {
+    int[] temp = new int[arr.length];
+    int count = 0;
+    if (arr.length != 0) {
+      for(int i = arr.length-1; i >=0; i -= 1) {
+        temp[count] = arr[i];
+        count++;
+      }
+
+      for(int i = 0; i< arr.length; i++){
+        arr[i]= temp[i];
+      }
+    }
+  }
+```
+
 
 ## Part 3
 What did I learn from lab 2 and 3?
