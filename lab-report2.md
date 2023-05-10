@@ -142,7 +142,7 @@ This is the reverseInPlace method before I realize this code cause an error, bec
 
 So handling 0 is not enough.
 
-This is my eventual code to fix the issue. 
+This is my code to fix the issue. 
 
 ```
   // Changes the input array to be in reversed order
