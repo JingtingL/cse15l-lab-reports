@@ -162,6 +162,7 @@ This is my eventual code to fix the issue.
   }
 ```
 
+I tried an input array of {1,2,3,4,5} and it worked.
 
 ## Part 3
 What did I learn from lab 2 and 3?
