@@ -1,0 +1,23 @@
+# Lab Report 3: Researching Commands
+Choosing Find
+
+1. To find file by name
+```
+find /path/to/search_directory -name "filename.txt"
+```
+
+
+2. To find file by type
+```
+find /path/to/search_directory -type f
+```
+
+
+3. To find directories
+```
+find /path/to/search_directory -type d
+```
+
+
+4. To find files based on criteria (e.g., size, modification time, etc.)
+
