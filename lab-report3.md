@@ -62,8 +62,7 @@ This goes from the home directory to technical to government to About_LSC direct
 
 
 This goes through through the technical directory and find all the files.
-<img width="582" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/fe271462-1c7c-4a5c-850b-132827dd1be7">
-<img width="667" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/a2587fab-8681-4d48-bb9d-5929fa130790">
+<img width="623" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/9fc1f445-da79-4865-a839-ed77c317a352"><img width="667" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/a2587fab-8681-4d48-bb9d-5929fa130790">
 
 
 ---
