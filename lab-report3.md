@@ -157,6 +157,6 @@ This looks through the technical directory and show everything that is in the ze
 <img width="603" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/cae69590-8b6e-4307-aed5-c544fccb577e">
 
 ---
-Work Cited Page
+Work Cited Area
 - ChatGPT
 - man find from terminal
