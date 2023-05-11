@@ -1,5 +1,6 @@
 # Lab Report 3: Researching Commands
 Choosing Find
+---
 
 1. To find file by name
 ```
