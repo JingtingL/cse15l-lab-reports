@@ -72,5 +72,27 @@ This is what it should look like:
 ---
 
 9. **Step 9: Commit and push the resulting change to your Github account (you can pick any commit message!)**
-- 
+- Type `git commit ListExamples.java` to confirm the changes
+
+<img width="633" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/34f2980c-4e44-4a68-8499-539e94dd44fc">
+
+- Type `git add .` to add all the other unchanged files to be ready to be push
+
+<img width="445" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/034ce03f-3397-4174-9291-96bc3a99fba4">
+
+- Go to Github and make a Personal Token, Refer to this website [https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) for instructions
+
+- Copy the token on this page
+
+<img width="1378" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/0a4cf500-0c8a-4e9a-b62c-aa8e31d47deb">
+
+- Type `git push`
+
+- Type your username
+
+- Paste the token as your password
+
+**The End Result should look like this**
+<img width="669" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/08f22af2-3400-4470-b05c-d8e3ac70fc85">
+
 
