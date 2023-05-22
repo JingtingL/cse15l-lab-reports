@@ -6,6 +6,7 @@ Steps 4-9
 - Enter your password
 
 This is what it should look like:
+
 <img width="500" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/c51e2f9f-86e9-4787-94b3-b31cd2af64c3">
 
 5. **Step 5: Clone your fork of the repository from your Github account**
