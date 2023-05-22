@@ -164,9 +164,11 @@ I ask ChatGPT 3 questions
 
 <img width="645" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/dcbe1d5b-10b3-4717-81a8-3c2f3f61deeb">
 
+
 2. how to use find by size
 
 <img width="563" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/75c90644-d0f1-4aea-8e74-e04b572baf4b">
+
 
 3. find criteria
 
