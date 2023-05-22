@@ -36,8 +36,31 @@ This is what it should look like:
 
 ---
 
-7. Step 7
+7. **Step 7: Edit the code file to fix the failing test**
+- Type `vim ListExamples.java`
 
+- Go to the first line of the file in vim, Type `j` 43 times
+- Highlight the 1 in `index1` of the line
+
+<img width="449" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/918eb9aa-7299-415e-b97a-5ea7b719f474">
+
+- Type `x` once to delete the 1
+
+<img width="449" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/1c7d27a2-a958-4449-9d13-34c13854e8e5">
+
+- Type `i` to go to insert mode
+- Type `2` to get the output below
+
+<img width="425" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/5874d471-a4cc-4917-ab70-8c2380ec5f8e">
+
+- Press the `<esc>` button to go to normal mode
+- Type `:wq` to save the file and quit vim
+
+**At the end of Step 7, your output should look like this**
+
+<img width="596" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/98bf34d9-c629-4b9d-9505-ce9e76e61cc3">
+
+---
 
 8. Step 8
 
