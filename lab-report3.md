@@ -8,7 +8,7 @@ find /path/to/search_directory -name "filename.txt"
 ```
 
 
-- find ./technical -name "chapter-1.txt"
+- `find ./technical -name "chapter-1.txt"`
 
 
 This finds the file name "chapter-1.txt" under the technical directory. 
