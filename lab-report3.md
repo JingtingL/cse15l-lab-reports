@@ -8,7 +8,7 @@ find /path/to/search_directory -name "filename.txt"
 ```
 
 
-- `find ./technical -name "chapter-1.txt"`
+- ```find ./technical -name "chapter-1.txt"```
 
 
 This finds the file name "chapter-1.txt" under the technical directory. 
@@ -17,7 +17,7 @@ This finds the file name "chapter-1.txt" under the technical directory.
 <img width="655" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/7e2e9d03-3ac8-42e6-9f20-ea5db6095244">
 
 
-- find ./technical -name "Comments_on_semiannual.txt"
+- ```find ./technical -name "Comments_on_semiannual.txt"```
 
 
 This finds the file name "Comments_on_semiannual.txt" under the technical directory.
@@ -32,25 +32,25 @@ find /path/to/search_directory -type f
 ```
 
 
- b       block special
+ `b`       block special
  
  
- c       character special
+ `c`       character special
  
  
- d       directory
+ `d`       directory
  
  
- f       regular file
+ `f`       regular file
  
  
- l       symbolic links
+ `l`       symbolic links
  
  
- p       FIFO
+ `p`       FIFO
  
  
- s       socket
+ `s`       socket
 
 - find ./technical/government/About_LSC -type f 
 
