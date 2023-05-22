@@ -30,7 +30,7 @@ This is what it should look like:
 
 6. **Step 6: Run the tests, demonstrating that they fail**
 - Type `cd lab7`
-- 
+- Type `bash test.sh`
 
 7. Step 7
 8. Step 8
