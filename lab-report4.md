@@ -62,6 +62,13 @@ This is what it should look like:
 
 ---
 
-8. Step 8
+8. **Step 8: Run the tests, demonstrating that they now succeed**
+- Type `bash test.sh`
+
+**At te end of Step 8, your output should like this**
+
+<img width="542" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/8c8aac76-219a-4b19-9064-76681c5ef1d4">
+
+---
 
 9. Step 9
