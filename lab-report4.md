@@ -8,6 +8,7 @@ Steps 4-9
 This is what it should look like:
 
 <img width="500" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/c51e2f9f-86e9-4787-94b3-b31cd2af64c3">
+---
 
 5. **Step 5: Clone your fork of the repository from your Github account**
 - Go to [https://github.com/ucsd-cse15l-s23/lab7](https://github.com/ucsd-cse15l-s23/lab7)
@@ -23,8 +24,10 @@ This is what it should look like:
 **End Result of Step 5 should look like this**
 
 <img width="613" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/090eb7a8-ab5b-4808-a730-0e6f7d873f77">
+---
+6. **Step 6: Run the tests, demonstrating that they fail**
 
-6. Step 6
+
 7. Step 7
 8. Step 8
 9. Step 9
