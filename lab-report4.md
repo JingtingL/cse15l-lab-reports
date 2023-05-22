@@ -15,8 +15,7 @@ This is what it should look like:
 
 - Click fork and Create fork
 
-<img width="1269" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/1d1512f9-3763-4a75-89e9-f641ceae10aa">
-
+<img width="790" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/2ce8a593-bc9f-42f9-9643-4b072a30d262">
 - 
 7. Step 6
 8. Step 7
