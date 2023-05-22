@@ -25,9 +25,12 @@ This is what it should look like:
 **End Result of Step 5 should look like this**
 
 <img width="613" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/090eb7a8-ab5b-4808-a730-0e6f7d873f77">
----
-6. **Step 6: Run the tests, demonstrating that they fail**
 
+---
+
+6. **Step 6: Run the tests, demonstrating that they fail**
+- Type `cd lab7`
+- 
 
 7. Step 7
 8. Step 8
