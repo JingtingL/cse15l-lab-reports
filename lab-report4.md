@@ -93,6 +93,8 @@ This is what it should look like:
 - Paste the token as your password
 
 **The End Result should look like this**
+
+
 <img width="669" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/08f22af2-3400-4470-b05c-d8e3ac70fc85">
 
 
