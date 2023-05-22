@@ -168,7 +168,7 @@ I ask ChatGPT 3 questions
 
 <img width="563" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/75c90644-d0f1-4aea-8e74-e04b572baf4b">
 
-3. find criteria
+3. find criteria 
 
 <img width="500" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/3f380d6c-04d9-467a-84cb-09a2d730974c">
 
