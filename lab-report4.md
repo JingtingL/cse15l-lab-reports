@@ -20,7 +20,7 @@ This is what it should look like:
 
 - Type `git clone https://github.com/JingtingL/lab7.git` 
 
-**End Result should look like this**
+**End Result of Step 5 should look like this**
 
 <img width="613" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/090eb7a8-ab5b-4808-a730-0e6f7d873f77">
 
