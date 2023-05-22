@@ -24,7 +24,7 @@ This is what it should look like:
 
 <img width="613" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/090eb7a8-ab5b-4808-a730-0e6f7d873f77">
 
-7. Step 6
-8. Step 7
-9. Step 8
-10. Step 9
+6. Step 6
+7. Step 7
+8. Step 8
+9. Step 9
