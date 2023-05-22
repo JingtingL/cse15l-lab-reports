@@ -72,4 +72,5 @@ This is what it should look like:
 ---
 
 9. **Step 9: Commit and push the resulting change to your Github account (you can pick any commit message!)**
+- 
 
