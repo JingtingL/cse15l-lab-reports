@@ -17,7 +17,8 @@ This is what it should look like:
 - Click fork and Create fork
 
 <img width="600" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/2ce8a593-bc9f-42f9-9643-4b072a30d262">
-- 
+
+- Type `git clone https://github.com/JingtingL/lab7.git` 
 7. Step 6
 8. Step 7
 9. Step 8
