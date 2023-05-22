@@ -159,18 +159,15 @@ This looks through the technical directory and show everything that is in the ze
 Work Cited Area
 - ***ChatGPT***
 
-I ask ChatGPT 3 questions
+I ask ChatGPT 3 questions:
 
 1.give me four ways to use find in command line
-
 <img width="645" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/dcbe1d5b-10b3-4717-81a8-3c2f3f61deeb">
 
 2.how to use find by size
-
 <img width="563" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/75c90644-d0f1-4aea-8e74-e04b572baf4b">
 
 3.find criteria 
-
 <img width="500" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/3f380d6c-04d9-467a-84cb-09a2d730974c">
 
 - ***man find from terminal***
