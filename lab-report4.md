@@ -32,6 +32,9 @@ This is what it should look like:
 - Type `cd lab7`
 - Type `bash test.sh`
 
+<img width="632" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/138a2b32-8337-4dae-aaed-ff77c832deec">
+
+---
 7. Step 7
 8. Step 8
 9. Step 9
