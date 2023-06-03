@@ -14,14 +14,23 @@
 <img width="655" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/892e0324-5e56-432d-88ce-ce33f4c28ebc">
 
 
+```
+TA Response: This is an very interesting error. Please know the path is a String, so please quote the first line of grade.sh. 
+```
 
-TA Response: You're correct that the bug is about running. To run a file, you must tell the system to use the junit runner. Please check cse15lsp23 github for week 3's lab description for how to do so (https://ucsd-cse15l-s23.github.io/week/week3/).
-
-2. The student tries to run the 
-
-<img width="749" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/baef0a61-e17d-47c7-a2fe-6730c315ab29">
-So the bug was the student didn't use junit to run the code by telling the system to do so. (Matches Scenario 1 in lab 9)
+2. The student change line 1 of grade.sh to be 
 
 
+```CPATH= '.:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar'``` and still experiences a bug in her code.
+
+<img width="991" alt="image" src="https://github.com/JingtingL/cse15l-lab-reports/assets/89711106/a45f9892-feca-4f39-8439-33b512bfcf05">
+
+She then remove the space in front of the ```=``` in  line 1 of grade.sh. And the code is fixed.
+
+
+```CPATH= '.:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar'``` and still experiences a bug in her code.
+
+The bug is there is a space  and there is no quote.
 
 ## Part 2 Reflection
+In the second half of the quarter, I learned how to use vim and bash file to make working with the terminal easier for me. With vim, I can edit files in the terminal instead of naviating to VS Code. Also ther are also lots of shortcuts with vim, which makes editing files much easier. With bash, I can put a bunch of bash commands in a single file and run it all at once, which I believe is very convenient. 
